@@ -1,0 +1,7 @@
+.home,.contact,.product,.about,.mobile,.notfound{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 25px;
+  height: 90vh;
+}
